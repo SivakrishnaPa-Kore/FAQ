@@ -1,0 +1,23 @@
+{
+  "name": "getaccess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "crypto": "^1.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.9",
+    "node-uuid": "^1.4.8",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "uniqid": "^5.1.0",
+    "uuidv5": "^1.0.0"
+  }
+}
